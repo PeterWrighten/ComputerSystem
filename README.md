@@ -25,3 +25,5 @@ Almost Based On Following Courses:
 ## Lecture 2: Bits, Bytes, and Integers
 
 - ENIAC: Decimal --> Binary
+- Big endians, Little endians(<-- Main)
+- 
