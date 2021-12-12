@@ -15,7 +15,7 @@ Almost Based On Following Courses:
 
 # Lab
 
-I would almost make experiments of **CSAPP** and **Digital Design and Computer Architecture**. 
+I would almost focus on making experiments of **CSAPP** and **Digital Design and Computer Architecture**. 
 
 ## Digital Design and Computer Architecture
 
