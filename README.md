@@ -12,6 +12,20 @@ Almost Based On Following Courses:
 
 [**StandordCS107**](https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/)
 
+
+# Lab
+
+I would almost make experiments of **CSAPP** and **Digital Design and Computer Architecture**. 
+
+## Digital Design and Computer Architecture
+
+I would do this part by ```Verilog``` HDL.
+
+|Lab|Solution|
+|:--:|:--:|
+|warmUp|[WU]()|
+
+
 # Lecture Note: CSAPP
 
 ## Lecture 1: Overview
@@ -26,4 +40,6 @@ Almost Based On Following Courses:
 
 - ENIAC: Decimal --> Binary
 - Big endians, Little endians(<-- Main)
-- 
+
+
+# Lecture Note: Digital Design and Computer Architecture
