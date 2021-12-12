@@ -23,7 +23,19 @@ I would do this part by ```Verilog``` HDL.
 
 |Lab|Solution|
 |:--:|:--:|
-|warmUp|[WU]()|
+|warmUp|[WU](https://github.com/PeterWrighten/ComputerSystem/tree/main/DigitalDesign/WarmUp)|
+
+
+## CSAPP  
+
+I would do this part by ```C```.
+
+|Lab|Solution|
+|:--:|:--:|
+|Data Lab|[Data]()|
+|Bomb Lab|[Bomb]()|
+|Attack Lab|[Attack]()|
+
 
 
 # Lecture Note: CSAPP
