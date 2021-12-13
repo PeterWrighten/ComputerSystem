@@ -19,6 +19,8 @@ module counter10(
         end
 
         assign  cout = (cnt_temp==4'd9) ;       
-        assign  cnt  = cnt_temp ;                       
+        assign  cnt  = cnt_temp ;   
 
-endmodule
+
+endmodule                    
+
