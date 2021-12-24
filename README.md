@@ -23,7 +23,9 @@ I would do this part by ```Verilog``` HDL.
 
 |Lab|Solution|
 |:--:|:--:|
-|warmUp|[WU](https://github.com/PeterWrighten/ComputerSystem/tree/main/DigitalDesign/WarmUp)|
+|ALU|[ALU](./DigitalDesign/ALU)|
+|MIPS|[MIPS]()|
+|RISV|[RISV]()|
 
 
 ## CSAPP  
