@@ -1,6 +1,0 @@
-# read design
-read_verilog counter.v
-hierarchy -top counter
-# high-level synthesis
-proc; opt; fsm; opt; memory; opt; #techmap; opt;
-write_verilog synth.v
