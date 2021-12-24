@@ -21,6 +21,12 @@ I would almost focus on making experiments of **CSAPP** and **Digital Design and
 
 I would do this part by ```Verilog``` HDL.
 
+**Practice&OJ**    
+
+[HDLBit](https://hdlbits.01xz.net/wiki/Main_Page)
+[SunBurst Design](http://www.sunburst-design.com/papers/)
+
+
 |Lab|Solution|
 |:--:|:--:|
 |ALU|[ALU](./DigitalDesign/ALU)|
